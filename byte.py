@@ -1,6 +1,4 @@
-"""
-字节串
-"""
+
 b1 = b"hello kitty"
 b2 = "死贵".encode()
 print(type(b1))
