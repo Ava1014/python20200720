@@ -2,7 +2,8 @@
 from socket import *
 import pymysql
 
-
+"方案一"
+import time
 
 db = pymysql.connect(host="localhost",
                      port=3306,
